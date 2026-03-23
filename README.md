@@ -95,6 +95,8 @@ pip install -r requirements.txt
 Create a .env file:
 
 SERPAPI_API_KEY=your_serpapi_key
+GROQ_API_KEY=your_groq_api_key
+
 ▶️ Running the Project
 streamlit run app.py
 
